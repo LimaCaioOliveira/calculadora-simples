@@ -6,3 +6,11 @@
 	1.4 - Divisão [/];<br>
 	1.5 - Exponenciação [^];<br>
 	1.6 - Resto da divisão [%];<br>
+
+## Instruções:
+1 - Escolha primeiramente o operador válido;<br>
+2 - Digite o primeiro operando e logo após o segundo operando;<br>
+3 - Receba o resultado.<br>
+
+### Observações:
+Cuidado com as regras matemáticas como a divisão por zero, caso isso ocorra o código não aceitará realizar a operação.
