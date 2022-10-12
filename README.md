@@ -13,4 +13,4 @@
 3 - Receba o resultado.<br>
 
 ### Observações:
-Cuidado com as regras matemáticas como a divisão por zero, caso isso ocorra o código não aceitará realizar a operação.
+Cuidado com as regras matemáticas como a divisão por zero, caso isso ocorra o código não aceitará realizar a operação.<br>
