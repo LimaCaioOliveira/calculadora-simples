@@ -1,3 +1,4 @@
+# Calculadora simples com Java.
 1 - O objetivo desse projeto é desenvolver uma calculadora simples, de um operador e dois operandos, com as operações:<br>
 	1.1 - Adição [+];<br>
 	1.2 - Subtração [-];<br>
